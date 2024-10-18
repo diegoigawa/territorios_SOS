@@ -1,0 +1,1 @@
+var json_LocalizacaoSOS_6 = {"type":"FeatureCollection","name":"LocalizacaoSOS_6","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":"1","name":"SOS Mata Atlântica"},"geometry":{"type":"Point","coordinates":[-47.404263172397989,-23.240900540874474]}}]}
